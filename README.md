@@ -12,7 +12,7 @@ O sistema permite o envio confiável de **mensagens de texto** (exibidas no Moni
 * **4x** Módulos RF 433 MHz ASK/OOK (2 transmissores FS1000A e 2 receptores MX-RM-5V)
 * **1x** Display LCD 16x2 com módulo adaptador I2C (conectado ao ESP32 receptor)
 * **2x** Computadores com Arduino IDE e Python 3 instalados
-* **2x** Protoboards, cabos jumpers, resistores (divisor de tensão 5 V para 3,3 V), capacitores de desacoplamento e antenas de fio rígido (~17,3 cm)
+* **2x** Protoboards, cabos jumpers, resistores (divisor de tensão 5 V para 3,3 V), capacitores de desacoplamento e antenas de fio rígido 
 
 ### Pinagem do ESP32 (Idêntica nas Duas Placas)
 
